@@ -16,6 +16,7 @@ antigen bundle cowboyd/zsh-rust
 zmodule cowboyd/zsh-rust
 ```
 
-Volta will be installed and configured for future shell sessions.
+`rustup` as well as a default rust toolchain will be installed and
+configured for future shell sessions.
 
 [1]: https://rustup.rs
